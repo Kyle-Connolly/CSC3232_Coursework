@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemyChaseState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemyChaseState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemySearchState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemySearchState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemyAttackState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemyAttackState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|e:\\unity active projects\\silent obsidian - testing grounds\\silent obsidian demo - kyle 200982173\\assets\\scripts\\enemy scripts\\enemystatemachine\\shroudedattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy scripts\\enemystatemachine\\shroudedattackstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemyPatrolState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemyPatrolState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\SMController\\EnemyStateMachineController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\SMController\\EnemyStateMachineController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\Interface\\IEnemyState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\Interface\\IEnemyState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyTypes\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy Scripts\\EnemyTypes\\Enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyTypes\\ShroudedEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy Scripts\\EnemyTypes\\ShroudedEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Player Scripts\\Attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Player Scripts\\Attack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyTypes\\CryoEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Enemy Scripts\\EnemyTypes\\CryoEnemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Player Scripts\\PlayerAttackManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Player Scripts\\PlayerAttackManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Shared Scripts\\Projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Shared Scripts\\Projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|e:\\unity active projects\\silent obsidian - testing grounds\\silent obsidian demo - kyle 200982173\\assets\\scripts\\player scripts\\reticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player scripts\\reticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|e:\\unity active projects\\silent obsidian - testing grounds\\silent obsidian demo - kyle 200982173\\assets\\scripts\\player scripts\\attackset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player scripts\\attackset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|e:\\unity active projects\\silent obsidian - testing grounds\\silent obsidian demo - kyle 200982173\\assets\\scripts\\player scripts\\attacktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player scripts\\attacktype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Player Scripts\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Player Scripts\\Player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\GameLogic\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\GameLogic\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Player Scripts\\PlayerUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Player Scripts\\PlayerUI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\StarterAssets\\FirstPersonController\\Scripts\\FirstPersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:Assets\\StarterAssets\\FirstPersonController\\Scripts\\FirstPersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\StarterAssets\\InputSystem\\StarterAssetsInputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:Assets\\StarterAssets\\InputSystem\\StarterAssetsInputs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\TeleporterEntrance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\TeleporterEntrance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Shared Scripts\\DamageHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\Shared Scripts\\DamageHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\VectorFieldMagnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\VectorFieldMagnet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\LavaEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\LavaEvent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\NewGameButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\NewGameButton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\SpinningWeapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A789E48B-02E1-B03F-25F8-313A36372536}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\SpinningWeapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SpinningWeapon.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\SpinningWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpinningWeapon.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\SpinningWeapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpinningWeapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T12:58:26.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "NewGameButton.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\NewGameButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NewGameButton.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\NewGameButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NewGameButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T09:29:14.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LavaEvent.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\LavaEvent.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LavaEvent.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\LavaEvent.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LavaEvent.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:56:37.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "VectorFieldMagnet.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\VectorFieldMagnet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VectorFieldMagnet.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\VectorFieldMagnet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VectorFieldMagnet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T05:11:38.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DamageHandler.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Shared Scripts\\DamageHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shared Scripts\\DamageHandler.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Shared Scripts\\DamageHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shared Scripts\\DamageHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T20:59:58.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TeleporterEntrance.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\TeleporterEntrance.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TeleporterEntrance.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\TeleporterEntrance.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TeleporterEntrance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T15:17:06.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StarterAssetsInputs.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\StarterAssets\\InputSystem\\StarterAssetsInputs.cs",
+              "RelativeDocumentMoniker": "Assets\\StarterAssets\\InputSystem\\StarterAssetsInputs.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\StarterAssets\\InputSystem\\StarterAssetsInputs.cs",
+              "RelativeToolTip": "Assets\\StarterAssets\\InputSystem\\StarterAssetsInputs.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAIwF4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:06:54.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FirstPersonController.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\StarterAssets\\FirstPersonController\\Scripts\\FirstPersonController.cs",
+              "RelativeDocumentMoniker": "Assets\\StarterAssets\\FirstPersonController\\Scripts\\FirstPersonController.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\StarterAssets\\FirstPersonController\\Scripts\\FirstPersonController.cs",
+              "RelativeToolTip": "Assets\\StarterAssets\\FirstPersonController\\Scripts\\FirstPersonController.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAYwMcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:07:23.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PlayerUI.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Player Scripts\\PlayerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player Scripts\\PlayerUI.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Player Scripts\\PlayerUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player Scripts\\PlayerUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:48:58.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\GameLogic\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameLogic\\GameManager.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\GameLogic\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameLogic\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T18:49:47.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Player.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Player Scripts\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player Scripts\\Player.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Player Scripts\\Player.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player Scripts\\Player.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowBgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T20:21:33.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Attack.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Player Scripts\\Attack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player Scripts\\Attack.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Player Scripts\\Attack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player Scripts\\Attack.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAA9wLgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:37:30.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AttackSet.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Player Scripts\\AttackSet.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player Scripts\\AttackSet.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Player Scripts\\AttackSet.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player Scripts\\AttackSet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:06:35.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AttackType.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Player Scripts\\AttackType.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player Scripts\\AttackType.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Player Scripts\\AttackType.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player Scripts\\AttackType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:06:55.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Reticle.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Player Scripts\\Reticle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player Scripts\\Reticle.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Player Scripts\\Reticle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player Scripts\\Reticle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T13:07:34.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Shared Scripts\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Shared Scripts\\Projectile.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Shared Scripts\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Shared Scripts\\Projectile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:56:49.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PlayerAttackManager.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Player Scripts\\PlayerAttackManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player Scripts\\PlayerAttackManager.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Player Scripts\\PlayerAttackManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player Scripts\\PlayerAttackManager.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T17:39:35.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CryoEnemy.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyTypes\\CryoEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy Scripts\\EnemyTypes\\CryoEnemy.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyTypes\\CryoEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy Scripts\\EnemyTypes\\CryoEnemy.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:53:12.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShroudedEnemy.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyTypes\\ShroudedEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy Scripts\\EnemyTypes\\ShroudedEnemy.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyTypes\\ShroudedEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy Scripts\\EnemyTypes\\ShroudedEnemy.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAA0wF4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:53:23.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyTypes\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy Scripts\\EnemyTypes\\Enemy.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyTypes\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy Scripts\\EnemyTypes\\Enemy.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAMwHEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:52:59.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEnemyState.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\Interface\\IEnemyState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\Interface\\IEnemyState.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\Interface\\IEnemyState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\Interface\\IEnemyState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:53:41.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnemyStateMachineController.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\SMController\\EnemyStateMachineController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\SMController\\EnemyStateMachineController.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\SMController\\EnemyStateMachineController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\SMController\\EnemyStateMachineController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T06:20:22.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemyPatrolState.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemyPatrolState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemyPatrolState.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemyPatrolState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemyPatrolState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:50:56.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyChaseState.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemyChaseState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemyChaseState.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemyChaseState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemyChaseState.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:51:33.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemySearchState.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemySearchState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemySearchState.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemySearchState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemySearchState.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:51:17.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnemyAttackState.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemyAttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemyAttackState.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemyAttackState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\EnemyAttackState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T03:50:26.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShroudedAttackState.cs",
+              "DocumentMoniker": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\ShroudedAttackState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\ShroudedAttackState.cs",
+              "ToolTip": "E:\\Unity Active Projects\\Silent Obsidian - Testing Grounds\\Silent Obsidian Demo - kyle 200982173\\Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\ShroudedAttackState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy Scripts\\EnemyStateMachine\\ShroudedAttackState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:14:34.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
