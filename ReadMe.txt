@@ -1,7 +1,12 @@
 Kyle Connolly 200982173 Newcastle University
-CSC3232 Coursework
+CSC3232/CSC3231 Coursework
 
 Instructions:
+-->[IMPORTANT]<--
+Please note that StarterAssetsInputsActions.cs is generated automatically with the Library folder which conflicts with StarterAssetsInputs.cs - the correct file. 
+To resolve the resulting namespace error when the Library folder has been regenerated, simply delete the StarterAssetsInputsActions.cs file in the folder: Assets/StarterAssets/InputSystem.
+DO NOT delete StarterAssetsInputs.cs.
+
 To play the game press the play button in the editor. This will spawn you into Level 1.
 
 Game Rules:
