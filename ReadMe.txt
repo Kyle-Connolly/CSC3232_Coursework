@@ -7,7 +7,7 @@ Please note that StarterAssetsInputsActions.cs is generated automatically with 
 To resolve the resulting namespace error when the Library folder has been regenerated, simply delete the StarterAssetsInputsActions.cs file in the folder: Assets/StarterAssets/InputSystem.
 DO NOT delete StarterAssetsInputs.cs.
 
-To play the game press the play button in the editor. This will spawn you into Level 1.
+Please open the scene "Level 1" to begin. To play the game press the play button in the editor. This will spawn you into Level 1.
 
 Game Rules:
 Defeat all enemies to access the water area and teleporter to end the game. If you die at any time, you may press enter to restart the level. If you make it to the end, you will be greeted with a menu where you can decide if you would like to play again. Landing hits and combos earns you score points.
