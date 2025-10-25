@@ -1,5 +1,8 @@
-Kyle Connolly 200982173 Newcastle University
 CSC3232/CSC3231 Coursework
+==========================
+Kyle Connolly 200982173 Newcastle University
+
+Please find documentation PDF files within this repository for more details on the design and development of this project.
 
 Instructions:
 -->[IMPORTANT]<--
